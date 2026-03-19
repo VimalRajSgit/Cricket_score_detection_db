@@ -1,10 +1,3 @@
-#trying out something 
-Used tesseract model ,
-accuracy is low , dont know what to do 
-Compared with paddle ocr and easy ocr , i felt tessaract is giving better results
-
-n using INTER_CUBIC kind of improved the accuracy , still there is alot of imrpovement needed
-
-
-
-trying out with open source image model like qwen. It is giving better results when i crop the image
+#trying out something
+So i started with tesseract model but accuracy was bad , tried some changes with opencv library it didnt convince me , neither easy ocr , paddle did
+so tried qwen model , which as better than these
